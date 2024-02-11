@@ -1,0 +1,14 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Outline&family=Poppins:wght@700&family=Protest+Riot&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+input[type="range"] {
+    background: #c5b9b965;
+    background-image: linear-gradient(#E8404A, #E8404A);
+    background-size: 90% 100%;
+    background-repeat: no-repeat;
+  }
+  
+

@@ -1,0 +1,13 @@
+import Home from "./Home/Home"
+import About from "./About/About"
+import Contact from "./Contact/Contact"
+import Pricing from "./Pricing/Pricing"
+import Project from "./Projects/Project"
+import Resume from "./Resume/Resume"
+import Services from "./Services/Service"
+import Skill from "./Skills/Skills"
+import Testimonials from "./Testimonials/Testimonials"
+import Footer from "./Footer/Footer"
+import Blogs from "./Blogs/Blogs"
+import Exp from "./Exp_project/Exp"
+export {Home, About, Contact, Pricing, Project, Resume, Services, Skill, Testimonials,Footer,Blogs,Exp}
